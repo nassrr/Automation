@@ -1,0 +1,13 @@
+<suite name="Automation Suite" preserve-order="true" >
+
+    <test name="smoke">
+
+        <classes>
+            <class name="dragdrop"/>
+
+
+        </classes>
+
+    </test>
+
+</suite>
